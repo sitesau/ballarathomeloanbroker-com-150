@@ -1,0 +1,19 @@
+{
+  "wheel_id": 329,
+  "structure": "umbrella",
+  "slug": "ballarathomeloanbroker-com-150",
+  "project": "home-loan-broker-ballarat-feb0bf75865bcb89bba94cfdeade710a470c3",
+  "parent_t1_ref": "ballarathomeloanbroker.com-010",
+  "node_role": "buffer",
+  "money_target": "ballarathomeloanbroker.com.au",
+  "primary_kw": "home loan broker ballarat",
+  "intended_url": "http://home-loan-broker-ballarat-feb0bf75865bcb89bba94cfdeade710a470c3.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "writeback_nonce": "0c7b06664d656001",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/home-loan-broker-ballarat/",
+      "anchor": "home loan broker ballarat",
+      "rel": "follow"
+    }
+  ]
+}
